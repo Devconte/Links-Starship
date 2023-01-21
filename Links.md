@@ -30,7 +30,9 @@
 [Font Awesome, des icônes pour tout vos site !](https://fontawesome.com/)
 ## **Ressources flexbox** :
 
-[**Interactive guide to flexbox (sûrement la meilleure ressource selon moi)**](https://www.joshwcomeau.com/css/interactive-guide-to-flexbox/)
+[**Interactive guide to flexbox ](https://www.joshwcomeau.com/css/interactive-guide-to-flexbox/)
+
+[**Video explicate flexbox** **(sûrement la meilleure ressource selon moi)**](https://www.youtube.com/watch?v=phWxA89Dy94&ab_channel=SlayingTheDragon)
 
 [MDN Flexbox](https://developer.mozilla.org/fr/docs/Web/CSS/CSS_Flexible_Box_Layout/Basic_Concepts_of_Flexbox)
 
