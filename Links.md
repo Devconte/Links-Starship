@@ -1,3 +1,25 @@
+
+# Links-Starship
+
+## Bonjour tout le monde
+
+J'ai crée ce petit repo pour centraliser toutes les ressources que l'on nous donne pour les cours.  
+
+J'ai aussi ajouté des ressources fournies par nos collègues et ce repo est voué à être updater au fur et à mesure de la formation  
+
+Si quelqu'un souhaite les droits pour faire des commits et ajouter des liens n'hésitez pas à me demander et je vous donnerais l'accès.
+
+Romain
+
+![MEME CSS](https://i.redd.it/bptzx7ur4uj11.jpg)
+
+
+
+Suivi MàJ:
+
+21/01 : Ajout vidéo CSS FLEXBOX
+23/01 : ajout TL DRAW, Notion, Vidéo CSS GRID
+
 # **Ressources HTML et CSS**
 
 [Global HTML/CSS/Fonctionnement internet ](https://www.internetingishard.com/)
@@ -51,6 +73,11 @@
 
 [Flexbox Zombie](https://mastery.games/flexboxzombies/)
 
+## Ressources JS
+
+[JavaScriptInfo (FR)](https://fr.javascript.info/)
+
+[Cours d'introduction à Javascript gratuit de 7h (Anglais)](https://scrimba.com/learn/learnjavascript)
 
 
 # **Inspirations design**
@@ -114,7 +141,6 @@
 
 [CS50 Introduction to computer Science - Cours de harvard gratuit mais assez complexe (Anglais)](https://www.edx.org/course/introduction-computer-science-harvardx-cs50x)
 
-[Cours d'introduction à Javascript gratuit de 7h (Anglais)](https://scrimba.com/learn/learnjavascript)
 
 # **Roadmaps**
 [RoadMap Dev global](https://www.mindmeister.com/fr/1701207547/d-veloppement-web?fullscreen=1#)
