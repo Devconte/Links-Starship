@@ -20,6 +20,9 @@
 
 [CSS Grid Cheatsheet ](https://grid.malven.co/)
 
+
+[**Learn CSS GRID (vidéo)**](https://www.youtube.com/watch?v=EiNiSFIPIQE&ab_channel=SlayingTheDragon)
+
 [MDN Selecteurs CSS](https://developer.mozilla.org/fr/docs/Web/CSS/CSS_Selectors#les_combinateurs)
 []()
 
@@ -68,6 +71,10 @@
 [Cheatsheet VSC Windows](https://code.visualstudio.com/shortcuts/keyboard-shortcuts-windows.pdf)
 
 [Cheatsheet VSC Mac](https://code.visualstudio.com/shortcuts/keyboard-shortcuts-macos.pdf)
+
+[Notion, le planificateur pour votre vie et vos projets](https://www.notion.so/fr-fr)
+
+[TLDRAW, l'outil de dessin pour des maxi découpage sémantique](https://www.tldraw.com/)
 
 ## **Github**
 
