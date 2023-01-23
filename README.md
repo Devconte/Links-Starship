@@ -1,4 +1,3 @@
-
 # Links-Starship
 
 ## Bonjour tout le monde
@@ -14,11 +13,6 @@ Romain
 ![MEME CSS](https://i.redd.it/bptzx7ur4uj11.jpg)
 
 
-
-Suivi MàJ:
-
-21/01 : Ajout vidéo CSS FLEXBOX
-23/01 : ajout TL DRAW, Notion, Vidéo CSS GRID
 
 # **Ressources HTML et CSS**
 
